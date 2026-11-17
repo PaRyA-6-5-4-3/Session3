@@ -24,3 +24,7 @@ catch
 {
     Console.WriteLine("behtare bikhial shi");
 }
+finally
+{
+    Console.WriteLine("barnameye jazabie khob pish raftim😍");
+}
