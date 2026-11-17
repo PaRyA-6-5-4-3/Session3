@@ -27,5 +27,9 @@ catch
 {
     Console.WriteLine("😊not found😊");
 }
+finally
+{
+    Console.WriteLine("hame chi Ali pish raft!");
+}
 
 
